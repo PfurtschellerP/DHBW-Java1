@@ -12,7 +12,6 @@ public class Palindrom {
 	 * @param args not used
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String worte = "lagerregal";
 		boolean istPalindrom = false;
 		

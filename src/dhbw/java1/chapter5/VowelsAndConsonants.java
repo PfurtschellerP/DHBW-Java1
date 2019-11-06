@@ -9,7 +9,6 @@ public class VowelsAndConsonants {
         String input = "Militär";
         int vowelCount = 0, consonantCount = 0, diacriticsCount = 0;
 
-        // TODO Count the vowels and consonants of the given input
         
         for (int i = 0; i <= input.length() - 1; i++) {
         	switch (input.charAt(i)) {

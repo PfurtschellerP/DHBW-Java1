@@ -12,7 +12,6 @@ public class Reverse {
     public static void main(String[] args) {
         String input = "Meine Eingabe";
 
-        // TODO Print the input string in reversed order to the console
         String output = "";
      
         for (int position = input.length() - 1; position >= 0; position--) {

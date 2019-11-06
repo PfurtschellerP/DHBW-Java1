@@ -13,7 +13,6 @@ public class WordCount {
         String input = "Wie viele Worte hat dieser Satz";
         int numberOfWords = 0;
 
-        // TODO Count the words contained in the input string using the variable numberOfWords
         
         for (int i = 0; i <= input.length() - 1; i++) {
         	if (input.charAt(i) == ' ') {

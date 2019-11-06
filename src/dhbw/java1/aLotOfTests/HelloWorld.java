@@ -25,7 +25,6 @@ public class HelloWorld {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hallo Welt!"); // Schreibt den Text in die Konsole
-		/*TODO Hier muss noch was cooles rein*/
 		System.out.println("\ud83d\ude04");
 		System.out.println(105e-2);
 	}

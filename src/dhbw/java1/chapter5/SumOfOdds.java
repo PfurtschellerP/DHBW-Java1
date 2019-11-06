@@ -13,7 +13,6 @@ public class SumOfOdds {
         int max = 11;
         int sum = 0;
 
-        // TODO Add up all odd numbers from 1 to max using the variable sum
         for (int i = 1; i <= max; i++) {
         	if (i % 2 != 0) {
         		sum += i;
