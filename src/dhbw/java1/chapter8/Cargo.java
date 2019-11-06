@@ -18,7 +18,7 @@ public class Cargo {
 	}
 	
 	public boolean equals(Cargo cargo) {
-		if (this.name == cargo.name & this.volume == cargo.volume & this.weight == cargo.weight) {
+		if (this.name.equals(cargo.name) & this.volume == cargo.volume & this.weight == cargo.weight) {
 			return true;
 		}
 		return false;
