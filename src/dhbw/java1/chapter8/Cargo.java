@@ -46,7 +46,7 @@ public class Cargo {
 	}
 	
 	public String toString() {
-		return this.name + ": Gewicht " + this.weight + " Volumen " + this.volume;
+		return this.name + ": Gewicht " + this.weight + "kg Volumen " + this.volume + "liter";
 	}
 	
 //	public void setVolumen(double volumen) {

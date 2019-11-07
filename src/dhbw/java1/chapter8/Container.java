@@ -98,6 +98,7 @@ public class Container {
 			this.load -= weight;
 			this.volumeLoad -= volume;
 			removeCargoFromArray(cargo);
+			this.items--;
 			System.out.println(cargo.getName() + " wurde aus Container #" + this.containerId + " ausgeladen.");
 		} else {
 //			System.out.println(cargo.getName() + " ist nicht (mehr) im Container");
