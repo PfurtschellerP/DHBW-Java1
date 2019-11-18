@@ -1,4 +1,4 @@
-package dhbw.java1.chapter10.spiel;
+package dhbw.java1.chapter10;
 
 public class Nim extends Spiel {
     private static final int START = 50;            // Anzahl zu Beginn

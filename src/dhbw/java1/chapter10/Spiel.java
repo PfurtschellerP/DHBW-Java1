@@ -1,4 +1,4 @@
-package dhbw.java1.chapter10.spiel;
+package dhbw.java1.chapter10;
 
 import java.util.Scanner;
 
