@@ -1,4 +1,4 @@
-package dhbw.java1.chapter11;
+package dhbw.java1.chapter11.Fibonacci;
 
 public class FibonacciIterative {
     public static long fibonacci(int n) {
@@ -16,7 +16,7 @@ public class FibonacciIterative {
     }
 
     public static void main(String[] args) {
-        // TODO gebe einige aussagekräftige Fibonacci-Zahlen zur Demonstration aus
+        // gebe einige aussagekräftige Fibonacci-Zahlen zur Demonstration aus
     	System.out.println(fibonacci(10));
     }
 }
