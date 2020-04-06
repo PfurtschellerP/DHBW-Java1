@@ -15,7 +15,7 @@ public class VowelsAndConsonants {
         	case 'a': case 'e': case 'i': case 'o': case 'u':
         		vowelCount++;
         		break;
-        	case 'Ã¤': case 'Ã¶': case 'Ã¼':
+        	case 'ä': case 'ö': case 'ü':
         		diacriticsCount++;
         		break;
         	default:
