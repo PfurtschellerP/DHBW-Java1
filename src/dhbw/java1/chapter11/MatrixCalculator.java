@@ -50,6 +50,7 @@ public class MatrixCalculator {
 		}
 	}
 	
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		double[][] a = { {1, 2, 3}, {3, 2, 1} };
